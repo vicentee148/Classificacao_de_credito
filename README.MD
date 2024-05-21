@@ -12,7 +12,7 @@ O objetivo aqui é que o modelo sirva o mutuário (o cliente) para que avalie su
 
 - Objetivos da modelagem
 
-O objetivo está bem definido: desenvolver o melhor modelo preditivo de modo a auxiliar o mutuário a tomar suas próprias decisões referentes a crédito.
+Desenvolver o melhor modelo preditivo de modo a auxiliar o mutuário a tomar suas próprias decisões referentes a crédito.
 
 
 #### Dicionário de dados
