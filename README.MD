@@ -1,4 +1,4 @@
-# **Classificação de Crédito**
+# **Modelagem Preditiva de Classificação**
 
 Este é um problema de concessão de cartões de crédito, publicado no [Kaggle](https://www.kaggle.com/), uma plataforma que promove desafios de ciência de dados, oferecendo prêmios em dinheiro para os melhores colocados. O link original está [aqui](https://www.kaggle.com/rikdifos/credit-card-approval-prediction).  
   
